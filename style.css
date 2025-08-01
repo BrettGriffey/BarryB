@@ -77,6 +77,25 @@ footer {
 }
 
 #resume-link {
+  #resume-link {
+  display: block;
+  text-align: center;
+  margin-top: 0.5rem;
+  font-size: 1.1rem;
+}
+display: block;
+  text-align: center;
+  margin-top: 0.5rem;
+  font-size: 1.1rem;
+}
+
+#resume-link {
+  display: inline-block;
   color: white !important;
+  background-color: #444;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
   text-decoration: none;
+  margin-top: 0.5rem;
+  font-size: 1.1rem;
 }
